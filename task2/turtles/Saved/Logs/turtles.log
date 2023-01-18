@@ -795,3 +795,219 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2023.01.18-23.06.20:829][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000006 seconds (updated 0 objects)
 [2023.01.18-23.06.20:879][  0]LogContentStreaming: Texture pool size now 1000 MB
 [2023.01.18-23.06.21:179][  2]LogSlate: Took 0.000303 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2023.01.18-23.08.17:587][363]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Floor)
+[2023.01.18-23.08.19:432][470]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (EditorCube21)
+[2023.01.18-23.08.19:975][500]LogSlate: Took 0.000149 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2023.01.18-23.08.20:014][500]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2023.01.18-23.08.20:054][500]LogSavePackage: Moving '../../../../../../Users/dmitry/Documents/Unreal Projects/turtles/Saved/FirstPersonExampleMap299C27034136A9B8640AF9A469DAFC4A.tmp' to '../../../../../../Users/dmitry/Documents/Unreal Projects/turtles/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2023.01.18-23.08.21:478][500]LogSavePackage: Moving '../../../../../../Users/dmitry/Documents/Unreal Projects/turtles/Saved/FirstPersonExampleMap_BuiltDataE7FBFB1E4EE0699EAA108D81C0FBDC9A.tmp' to '../../../../../../Users/dmitry/Documents/Unreal Projects/turtles/Content/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.uasset'
+[2023.01.18-23.08.21:520][500]AssetCheck: New page: Asset Save: multiple assets
+[2023.01.18-23.08.21:520][500]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.FirstPersonExampleMap_BuiltData
+[2023.01.18-23.08.21:520][500]LogContentValidation: Display: Validating World /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap
+[2023.01.18-23.08.29:373][960]Cmd: DELETE
+[2023.01.18-23.08.29:373][960]Cmd: ACTOR DELETE
+[2023.01.18-23.08.29:387][960]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.01.18-23.08.29:389][960]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.01.18-23.08.29:389][960]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.01.18-23.08.29:390][960]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.01.18-23.08.29:395][960]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2023.01.18-23.08.29:400][960]LogEditorActor: Deleted 4 Actors (0.019 secs)
+[2023.01.18-23.08.33:445][203]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (EditorCube17)
+[2023.01.18-23.08.34:145][243]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (EditorCube16)
+[2023.01.18-23.08.35:765][338]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Floor)
+[2023.01.18-23.08.38:594][504]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (EditorCube8)
+[2023.01.18-23.08.39:256][542]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (EditorCube9)
+[2023.01.18-23.08.40:153][594]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (EditorCube11)
+[2023.01.18-23.08.40:957][640]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (EditorCube10)
+[2023.01.18-23.08.41:772][687]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (EditorCube13)
+[2023.01.18-23.08.42:553][732]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (EditorCube12)
+[2023.01.18-23.08.43:720][800]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (EditorCube14)
+[2023.01.18-23.08.45:118][882]Cmd: DELETE
+[2023.01.18-23.08.45:118][882]Cmd: ACTOR DELETE
+[2023.01.18-23.08.45:122][882]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.01.18-23.08.45:122][882]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.01.18-23.08.45:122][882]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.01.18-23.08.45:123][882]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.01.18-23.08.45:123][882]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.01.18-23.08.45:123][882]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.01.18-23.08.45:124][882]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.01.18-23.08.45:124][882]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.01.18-23.08.45:124][882]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.01.18-23.08.45:131][882]LogUObjectHash: Compacting FUObjectHashTables data took   0.30ms
+[2023.01.18-23.08.45:132][882]LogEditorActor: Deleted 9 Actors (0.014 secs)
+[2023.01.18-23.08.46:956][992]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (EditorCube15)
+[2023.01.18-23.08.47:785][ 40]Cmd: DELETE
+[2023.01.18-23.08.47:785][ 40]Cmd: ACTOR DELETE
+[2023.01.18-23.08.47:787][ 40]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.01.18-23.08.47:792][ 40]LogUObjectHash: Compacting FUObjectHashTables data took   0.28ms
+[2023.01.18-23.08.47:792][ 40]LogEditorActor: Deleted 1 Actors (0.007 secs)
+[2023.01.18-23.08.51:619][270]LogEditorViewport: Clicking on Actor (LMB): FirstPersonCharacter_C (FirstPersonCharacter)
+[2023.01.18-23.09.01:497][854]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (BigWall)
+[2023.01.18-23.10.33:319][ 33]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (BigWall)
+[2023.01.18-23.11.26:578][872]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2023.01.18-23.12.06:734][ 15]LogUObjectHash: Compacting FUObjectHashTables data took   1.00ms
+[2023.01.18-23.12.06:766][ 15]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2023.01.18-23.12.06:788][ 15]LogSavePackage: Moving '../../../../../../Users/dmitry/Documents/Unreal Projects/turtles/Saved/FirstPersonExampleMapFBF686514FFF78624417399D8EE7BB85.tmp' to '../../../../../../Users/dmitry/Documents/Unreal Projects/turtles/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2023.01.18-23.12.06:793][ 15]LogFileHelpers: Saving map 'FirstPersonExampleMap' took 0.035
+[2023.01.18-23.12.06:808][ 15]AssetCheck: New page: Asset Save: FirstPersonExampleMap
+[2023.01.18-23.12.06:808][ 15]LogContentValidation: Display: Validating World /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap
+[2023.01.18-23.12.08:289][ 95]LogTemp: Repeating last play command: Selected Viewport
+[2023.01.18-23.12.08:298][ 95]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.01.18-23.12.08:303][ 95]PIE: New page: PIE session: FirstPersonExampleMap (19 янв. 2023 г., 11:12:08)
+[2023.01.18-23.12.08:308][ 95]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2023.01.18-23.12.08:310][ 95]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2023.01.18-23.12.08:312][ 95]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2023.01.18-23.12.08:328][ 95]LogPlayLevel: PIE: StaticDuplicateObject took: (0.015162s)
+[2023.01.18-23.12.08:330][ 95]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2023.01.18-23.12.08:331][ 95]LogPlayLevel: PIE: World Init took: (0.003147s)
+[2023.01.18-23.12.08:332][ 95]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.019619s)
+[2023.01.18-23.12.08:349][ 95]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2023.01.18-23.12.08:353][ 95]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2023.01.18-23.12.08:353][ 95]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.01.18-23.12.08:353][ 95]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.01.18-23.12.08:353][ 95]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.01.18-23.12.08:353][ 95]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.01.18-23.12.08:353][ 95]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.01.18-23.12.08:353][ 95]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.01.18-23.12.08:353][ 95]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.01.18-23.12.08:353][ 95]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.01.18-23.12.08:353][ 95]LogAudio: Display: Using built-in audio occlusion.
+[2023.01.18-23.12.08:353][ 95]LogAudioMixer: Display: Initializing audio mixer.
+[2023.01.18-23.12.08:356][ 95]LogAudioMixer: Display: 0: FrontLeft
+[2023.01.18-23.12.08:356][ 95]LogAudioMixer: Display: 1: FrontRight
+[2023.01.18-23.12.08:368][ 95]LogAudioMixer: Display: Using Audio Device Наушники (EDIFIER W800BT Plus Stereo)
+[2023.01.18-23.12.08:368][ 95]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.01.18-23.12.08:368][ 95]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.01.18-23.12.08:369][ 95]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.01.18-23.12.08:369][ 95]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.01.18-23.12.08:369][ 95]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.01.18-23.12.08:369][ 95]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.01.18-23.12.08:386][ 95]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.01.18-23.12.08:386][ 95]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.01.18-23.12.08:386][ 95]LogInit: FAudioDevice initialized.
+[2023.01.18-23.12.08:386][ 95]LogAudio: Display: Audio Device (ID: 2) registered with world 'FirstPersonExampleMap'.
+[2023.01.18-23.12.08:397][ 95]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2023.01.18-23.12.08:406][ 95]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 60) at 2023.01.19-05.12.08
+[2023.01.18-23.12.08:408][ 95]LogWorld: Bringing up level for play took: 0.004351
+[2023.01.18-23.12.08:409][ 95]LogOnline: OSS: Creating online subsystem instance for: :Context_3
+[2023.01.18-23.12.08:427][ 95]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'MovieSceneCapture' in 0.0005 seconds. Added 20 classes and 0 folders.
+[2023.01.18-23.12.08:432][ 95]PIE: Server logged in
+[2023.01.18-23.12.08:434][ 95]PIE: Play in editor total start time 0,141 seconds.
+[2023.01.18-23.12.13:950][391]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.01.18-23.12.13:951][391]LogWorld: BeginTearingDown for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2023.01.18-23.12.13:951][391]LogWorld: UWorld::CleanupWorld for FirstPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2023.01.18-23.12.13:952][391]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.01.18-23.12.13:960][391]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.01.18-23.12.13:974][391]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.01.18-23.12.13:982][391]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.01.18-23.12.13:985][391]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.01.18-23.12.13:985][391]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.01.18-23.12.14:007][391]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.01.18-23.12.14:012][391]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2023.01.18-23.12.14:035][392]LogPlayLevel: Display: Destroying online subsystem :Context_3
+[2023.01.18-23.12.16:619][524]LogEditorViewport: Clicking on Actor (LMB): TextRenderActor (TemplateLabel)
+[2023.01.18-23.12.43:991][942]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2023.01.18-23.12.44:019][942]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2023.01.18-23.12.44:042][942]LogSavePackage: Moving '../../../../../../Users/dmitry/Documents/Unreal Projects/turtles/Saved/FirstPersonExampleMapE5EF75574550768FAFB05CAB87D80ED8.tmp' to '../../../../../../Users/dmitry/Documents/Unreal Projects/turtles/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2023.01.18-23.12.44:046][942]LogFileHelpers: Saving map 'FirstPersonExampleMap' took 0.034
+[2023.01.18-23.12.44:056][942]AssetCheck: New page: Asset Save: FirstPersonExampleMap
+[2023.01.18-23.12.44:057][942]LogContentValidation: Display: Validating World /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap
+[2023.01.18-23.12.53:226][421]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (BigWall2)
+[2023.01.18-23.13.02:061][899]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (BigWall2)
+[2023.01.18-23.13.47:717][355]Cmd: DELETE
+[2023.01.18-23.13.47:718][355]Cmd: ACTOR DELETE
+[2023.01.18-23.13.47:721][355]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.01.18-23.13.47:727][355]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2023.01.18-23.13.47:729][355]LogEditorActor: Deleted 1 Actors (0.010 secs)
+[2023.01.18-23.13.49:170][432]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (BigWall2)
+[2023.01.18-23.13.56:289][802]Cmd: TRANSACTION UNDO
+[2023.01.18-23.13.56:290][802]LogEditorTransaction: Undo Scale Actors
+[2023.01.18-23.14.17:225][916]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2023.01.18-23.14.17:256][916]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
+[2023.01.18-23.14.17:279][916]LogSavePackage: Moving '../../../../../../Users/dmitry/Documents/Unreal Projects/turtles/Saved/FirstPersonExampleMapC9C6A6564511253C2DD805B4F4C9F39D.tmp' to '../../../../../../Users/dmitry/Documents/Unreal Projects/turtles/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2023.01.18-23.14.17:283][916]LogFileHelpers: Saving map 'FirstPersonExampleMap' took 0.033
+[2023.01.18-23.14.17:294][916]AssetCheck: New page: Asset Save: FirstPersonExampleMap
+[2023.01.18-23.14.17:294][916]LogContentValidation: Display: Validating World /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap
+[2023.01.18-23.14.26:017][387]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall1)
+[2023.01.18-23.14.30:545][620]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2023.01.18-23.15.15:632][977]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall1)
+[2023.01.18-23.15.35:901][ 99]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2023.01.18-23.15.48:401][744]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall3)
+[2023.01.18-23.16.13:446][ 63]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall4)
+[2023.01.18-23.16.14:681][131]Cmd: DELETE
+[2023.01.18-23.16.14:682][131]Cmd: ACTOR DELETE
+[2023.01.18-23.16.14:684][131]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.01.18-23.16.14:716][131]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2023.01.18-23.16.14:717][131]LogEditorActor: Deleted 1 Actors (0.035 secs)
+[2023.01.18-23.16.15:766][188]LogEditorViewport: Clicking on Actor (LMB): LightmassImportanceVolume (LightmassImportanceVolume)
+[2023.01.18-23.16.16:465][228]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall3)
+[2023.01.18-23.16.42:253][749]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (BigWall2)
+[2023.01.18-23.17.44:354][367]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2023.01.18-23.17.44:440][367]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2023.01.18-23.17.44:463][367]LogSavePackage: Moving '../../../../../../Users/dmitry/Documents/Unreal Projects/turtles/Saved/FirstPersonExampleMap2C07C8894F799C4DB567F9A953B9FCA9.tmp' to '../../../../../../Users/dmitry/Documents/Unreal Projects/turtles/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2023.01.18-23.17.44:469][367]LogFileHelpers: Saving map 'FirstPersonExampleMap' took 0.036
+[2023.01.18-23.17.44:479][367]AssetCheck: New page: Asset Save: FirstPersonExampleMap
+[2023.01.18-23.17.44:479][367]LogContentValidation: Display: Validating World /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap
+[2023.01.18-23.17.46:414][466]LogTemp: Repeating last play command: Selected Viewport
+[2023.01.18-23.17.46:418][466]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.01.18-23.17.46:418][466]PIE: New page: PIE session: FirstPersonExampleMap (19 янв. 2023 г., 11:17:46)
+[2023.01.18-23.17.46:419][466]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2023.01.18-23.17.46:430][466]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011478s)
+[2023.01.18-23.17.46:432][466]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2023.01.18-23.17.46:434][466]LogPlayLevel: PIE: World Init took: (0.003404s)
+[2023.01.18-23.17.46:434][466]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.015152s)
+[2023.01.18-23.17.46:480][466]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2023.01.18-23.17.46:481][466]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2023.01.18-23.17.46:481][466]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.01.18-23.17.46:481][466]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.01.18-23.17.46:481][466]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.01.18-23.17.46:481][466]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.01.18-23.17.46:481][466]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.01.18-23.17.46:481][466]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.01.18-23.17.46:481][466]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.01.18-23.17.46:481][466]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.01.18-23.17.46:482][466]LogAudio: Display: Using built-in audio occlusion.
+[2023.01.18-23.17.46:482][466]LogAudioMixer: Display: Initializing audio mixer.
+[2023.01.18-23.17.46:485][466]LogAudioMixer: Display: 0: FrontLeft
+[2023.01.18-23.17.46:485][466]LogAudioMixer: Display: 1: FrontRight
+[2023.01.18-23.17.46:495][466]LogAudioMixer: Display: Using Audio Device Наушники (EDIFIER W800BT Plus Stereo)
+[2023.01.18-23.17.46:495][466]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.01.18-23.17.46:495][466]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.01.18-23.17.46:495][466]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.01.18-23.17.46:496][466]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.01.18-23.17.46:496][466]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.01.18-23.17.46:496][466]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.01.18-23.17.46:513][466]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.01.18-23.17.46:513][466]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.01.18-23.17.46:513][466]LogInit: FAudioDevice initialized.
+[2023.01.18-23.17.46:513][466]LogAudio: Display: Audio Device (ID: 3) registered with world 'FirstPersonExampleMap'.
+[2023.01.18-23.17.46:525][466]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2023.01.18-23.17.46:527][466]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 60) at 2023.01.19-05.17.46
+[2023.01.18-23.17.46:528][466]LogWorld: Bringing up level for play took: 0.001494
+[2023.01.18-23.17.46:528][466]LogOnline: OSS: Creating online subsystem instance for: :Context_4
+[2023.01.18-23.17.46:530][466]PIE: Server logged in
+[2023.01.18-23.17.46:531][466]PIE: Play in editor total start time 0,114 seconds.
+[2023.01.18-23.17.52:809][803]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.01.18-23.17.52:809][803]LogWorld: BeginTearingDown for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2023.01.18-23.17.52:809][803]LogWorld: UWorld::CleanupWorld for FirstPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2023.01.18-23.17.52:810][803]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.01.18-23.17.52:844][803]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.01.18-23.17.52:860][803]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.01.18-23.17.52:867][803]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.01.18-23.17.52:867][803]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.01.18-23.17.52:869][803]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.01.18-23.17.52:892][803]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2023.01.18-23.17.52:925][804]LogPlayLevel: Display: Destroying online subsystem :Context_4
+[2023.01.18-23.17.56:756][ 16]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (BigWall3)
+[2023.01.18-23.17.58:859][128]Cmd: DELETE
+[2023.01.18-23.17.58:859][128]Cmd: ACTOR DELETE
+[2023.01.18-23.17.58:861][128]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.01.18-23.17.58:867][128]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2023.01.18-23.17.58:868][128]LogEditorActor: Deleted 1 Actors (0.009 secs)
+[2023.01.18-23.18.02:064][289]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (BigWall2)
+[2023.01.18-23.18.28:870][727]LogUObjectHash: Compacting FUObjectHashTables data took   1.27ms
+[2023.01.18-23.18.28:894][727]LogSavePackage: Moving '../../../../../../Users/dmitry/Documents/Unreal Projects/turtles/Saved/FirstPersonExampleMapB18773A847800C92953C8EB99EF54B69.tmp' to '../../../../../../Users/dmitry/Documents/Unreal Projects/turtles/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2023.01.18-23.18.29:993][727]LogSavePackage: Moving '../../../../../../Users/dmitry/Documents/Unreal Projects/turtles/Saved/FirstPersonExampleMap_BuiltDataEAD57AAA41E2A9457052D6B06943186E.tmp' to '../../../../../../Users/dmitry/Documents/Unreal Projects/turtles/Content/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.uasset'
+[2023.01.18-23.18.30:014][727]AssetCheck: New page: Asset Save: multiple assets
+[2023.01.18-23.18.30:014][727]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.FirstPersonExampleMap_BuiltData
+[2023.01.18-23.18.30:014][727]LogContentValidation: Display: Validating World /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap
