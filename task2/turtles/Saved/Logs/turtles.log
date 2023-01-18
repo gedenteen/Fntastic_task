@@ -1011,3 +1011,427 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2023.01.18-23.18.30:014][727]AssetCheck: New page: Asset Save: multiple assets
 [2023.01.18-23.18.30:014][727]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.FirstPersonExampleMap_BuiltData
 [2023.01.18-23.18.30:014][727]LogContentValidation: Display: Validating World /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap
+[2023.01.18-23.19.38:790][  0]LogSlate: Window 'Pick Parent Class' being destroyed
+[2023.01.18-23.19.38:808][  0]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2023.01.18-23.19.38:819][  0]LogContentBrowser: Creating deferred item: NewBlueprint
+[2023.01.18-23.19.47:255][500]LogContentBrowser: Attempting asset rename: NewBlueprint -> BP_Button
+[2023.01.18-23.19.47:262][500]LogContentBrowser: End creating deferred item NewBlueprint
+[2023.01.18-23.19.49:588][626]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/FirstPersonBP/Blueprints/BP_Button.BP_Button
+[2023.01.18-23.19.49:897][626]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'BlueprintGraph' in 0.0007 seconds. Added 126 classes and 0 folders.
+[2023.01.18-23.19.50:968][626]LogRenderer: Reallocating scene render targets to support 912x684 Format 10 NumSamples 1 (Frame:1).
+[2023.01.18-23.20.06:035][303]LogSlate: Took 0.002279 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2023.01.18-23.20.19:953][886]LogEditorTransaction: Undo Modify Component(s)
+[2023.01.18-23.20.20:464][896]LogEditorTransaction: Undo Modify Component(s)
+[2023.01.18-23.20.30:426][280]LogPhysics: Warning: Scale for /Engine/Transient.World_4:PersistentLevel.BP_Button_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.750
+[2023.01.18-23.20.30:427][280]LogPhysics: Warning: Scale for /Engine/Transient.World_4:PersistentLevel.BP_Button_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.750
+[2023.01.18-23.20.30:447][281]LogPhysics: Warning: Scale for /Engine/Transient.World_4:PersistentLevel.BP_Button_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.750
+[2023.01.18-23.20.30:447][281]LogPhysics: Warning: Scale for /Engine/Transient.World_4:PersistentLevel.BP_Button_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.750
+[2023.01.18-23.20.30:447][281]LogPhysics: Warning: Scale for /Engine/Transient.World_4:PersistentLevel.BP_Button_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.750
+[2023.01.18-23.20.30:465][282]LogPhysics: Warning: Scale for /Engine/Transient.World_4:PersistentLevel.BP_Button_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.750
+[2023.01.18-23.20.30:466][282]LogPhysics: Warning: Scale for /Engine/Transient.World_4:PersistentLevel.BP_Button_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.750
+[2023.01.18-23.20.30:466][282]LogPhysics: Warning: Scale for /Engine/Transient.World_4:PersistentLevel.BP_Button_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.750
+[2023.01.18-23.20.30:486][283]LogPhysics: Warning: Scale for /Engine/Transient.World_4:PersistentLevel.BP_Button_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.750
+[2023.01.18-23.20.30:487][283]LogPhysics: Warning: Scale for /Engine/Transient.World_4:PersistentLevel.BP_Button_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.750
+[2023.01.18-23.20.30:487][283]LogPhysics: Warning: Scale for /Engine/Transient.World_4:PersistentLevel.BP_Button_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.750
+[2023.01.18-23.20.30:507][284]LogPhysics: Warning: Scale for /Engine/Transient.World_4:PersistentLevel.BP_Button_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.750
+[2023.01.18-23.20.30:508][284]LogPhysics: Warning: Scale for /Engine/Transient.World_4:PersistentLevel.BP_Button_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.750
+[2023.01.18-23.20.30:508][284]LogPhysics: Warning: Scale for /Engine/Transient.World_4:PersistentLevel.BP_Button_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.750
+[2023.01.18-23.20.30:527][285]LogPhysics: Warning: Scale for /Engine/Transient.World_4:PersistentLevel.BP_Button_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.750
+[2023.01.18-23.20.30:527][285]LogPhysics: Warning: Scale for /Engine/Transient.World_4:PersistentLevel.BP_Button_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.750
+[2023.01.18-23.20.30:527][285]LogPhysics: Warning: Scale for /Engine/Transient.World_4:PersistentLevel.BP_Button_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.750
+[2023.01.18-23.20.30:546][286]LogPhysics: Warning: Scale for /Engine/Transient.World_4:PersistentLevel.BP_Button_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.750
+[2023.01.18-23.20.30:546][286]LogPhysics: Warning: Scale for /Engine/Transient.World_4:PersistentLevel.BP_Button_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.750
+[2023.01.18-23.20.30:546][286]LogPhysics: Warning: Scale for /Engine/Transient.World_4:PersistentLevel.BP_Button_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.750
+[2023.01.18-23.20.30:564][287]LogPhysics: Warning: Scale for /Engine/Transient.World_4:PersistentLevel.BP_Button_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.750
+[2023.01.18-23.20.30:564][287]LogPhysics: Warning: Scale for /Engine/Transient.World_4:PersistentLevel.BP_Button_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.750
+[2023.01.18-23.20.30:564][287]LogPhysics: Warning: Scale for /Engine/Transient.World_4:PersistentLevel.BP_Button_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.750
+[2023.01.18-23.20.30:585][288]LogPhysics: Warning: Scale for /Engine/Transient.World_4:PersistentLevel.BP_Button_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.750
+[2023.01.18-23.20.30:586][288]LogPhysics: Warning: Scale for /Engine/Transient.World_4:PersistentLevel.BP_Button_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.750
+[2023.01.18-23.20.30:586][288]LogPhysics: Warning: Scale for /Engine/Transient.World_4:PersistentLevel.BP_Button_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.750
+[2023.01.18-23.20.30:606][289]LogPhysics: Warning: Scale for /Engine/Transient.World_4:PersistentLevel.BP_Button_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.750
+[2023.01.18-23.20.30:607][289]LogPhysics: Warning: Scale for /Engine/Transient.World_4:PersistentLevel.BP_Button_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.750
+[2023.01.18-23.20.30:607][289]LogPhysics: Warning: Scale for /Engine/Transient.World_4:PersistentLevel.BP_Button_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.750
+[2023.01.18-23.20.30:626][290]LogPhysics: Warning: Scale for /Engine/Transient.World_4:PersistentLevel.BP_Button_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.750
+[2023.01.18-23.20.30:626][290]LogPhysics: Warning: Scale for /Engine/Transient.World_4:PersistentLevel.BP_Button_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.750
+[2023.01.18-23.20.30:626][290]LogPhysics: Warning: Scale for /Engine/Transient.World_4:PersistentLevel.BP_Button_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.750
+[2023.01.18-23.20.30:646][291]LogPhysics: Warning: Scale for /Engine/Transient.World_4:PersistentLevel.BP_Button_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.750
+[2023.01.18-23.20.30:646][291]LogPhysics: Warning: Scale for /Engine/Transient.World_4:PersistentLevel.BP_Button_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.750
+[2023.01.18-23.20.30:646][291]LogPhysics: Warning: Scale for /Engine/Transient.World_4:PersistentLevel.BP_Button_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.750
+[2023.01.18-23.20.30:665][292]LogPhysics: Warning: Scale for /Engine/Transient.World_4:PersistentLevel.BP_Button_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.750
+[2023.01.18-23.20.30:666][292]LogPhysics: Warning: Scale for /Engine/Transient.World_4:PersistentLevel.BP_Button_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.750
+[2023.01.18-23.20.30:666][292]LogPhysics: Warning: Scale for /Engine/Transient.World_4:PersistentLevel.BP_Button_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.750
+[2023.01.18-23.20.30:684][293]LogPhysics: Warning: Scale for /Engine/Transient.World_4:PersistentLevel.BP_Button_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.750
+[2023.01.18-23.20.30:685][293]LogPhysics: Warning: Scale for /Engine/Transient.World_4:PersistentLevel.BP_Button_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.750
+[2023.01.18-23.20.30:685][293]LogPhysics: Warning: Scale for /Engine/Transient.World_4:PersistentLevel.BP_Button_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.750
+[2023.01.18-23.20.30:708][294]LogPhysics: Warning: Scale for /Engine/Transient.World_4:PersistentLevel.BP_Button_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.750
+[2023.01.18-23.20.30:709][294]LogPhysics: Warning: Scale for /Engine/Transient.World_4:PersistentLevel.BP_Button_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.750
+[2023.01.18-23.20.30:709][294]LogPhysics: Warning: Scale for /Engine/Transient.World_4:PersistentLevel.BP_Button_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.750
+[2023.01.18-23.20.30:729][295]LogPhysics: Warning: Scale for /Engine/Transient.World_4:PersistentLevel.BP_Button_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.750
+[2023.01.18-23.20.30:730][295]LogPhysics: Warning: Scale for /Engine/Transient.World_4:PersistentLevel.BP_Button_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.750
+[2023.01.18-23.20.30:730][295]LogPhysics: Warning: Scale for /Engine/Transient.World_4:PersistentLevel.BP_Button_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.750
+[2023.01.18-23.20.30:750][296]LogPhysics: Warning: Scale for /Engine/Transient.World_4:PersistentLevel.BP_Button_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.750
+[2023.01.18-23.20.30:750][296]LogPhysics: Warning: Scale for /Engine/Transient.World_4:PersistentLevel.BP_Button_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.750
+[2023.01.18-23.20.30:750][296]LogPhysics: Warning: Scale for /Engine/Transient.World_4:PersistentLevel.BP_Button_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.750
+[2023.01.18-23.20.30:770][297]LogPhysics: Warning: Scale for /Engine/Transient.World_4:PersistentLevel.BP_Button_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.750
+[2023.01.18-23.20.30:771][297]LogPhysics: Warning: Scale for /Engine/Transient.World_4:PersistentLevel.BP_Button_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.750
+[2023.01.18-23.20.30:771][297]LogPhysics: Warning: Scale for /Engine/Transient.World_4:PersistentLevel.BP_Button_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.750
+[2023.01.18-23.20.30:790][298]LogPhysics: Warning: Scale for /Engine/Transient.World_4:PersistentLevel.BP_Button_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.750
+[2023.01.18-23.20.30:791][298]LogPhysics: Warning: Scale for /Engine/Transient.World_4:PersistentLevel.BP_Button_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.750
+[2023.01.18-23.20.30:791][298]LogPhysics: Warning: Scale for /Engine/Transient.World_4:PersistentLevel.BP_Button_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.750
+[2023.01.18-23.20.30:810][299]LogPhysics: Warning: Scale for /Engine/Transient.World_4:PersistentLevel.BP_Button_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.750
+[2023.01.18-23.20.30:810][299]LogPhysics: Warning: Scale for /Engine/Transient.World_4:PersistentLevel.BP_Button_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.750
+[2023.01.18-23.23.10:342][249]BlueprintLog: New page: Compile BP_Button
+[2023.01.18-23.23.10:459][249]LogUObjectHash: Compacting FUObjectHashTables data took   3.32ms
+[2023.01.18-23.23.11:133][268]LogSavePackage: Moving '../../../../../../Users/dmitry/Documents/Unreal Projects/turtles/Saved/BP_ButtonACAD50364319B1293BDF15A2F811B40C.tmp' to '../../../../../../Users/dmitry/Documents/Unreal Projects/turtles/Content/FirstPersonBP/Blueprints/BP_Button.uasset'
+[2023.01.18-23.23.11:158][268]AssetCheck: New page: Asset Save: BP_Button
+[2023.01.18-23.23.11:158][268]LogContentValidation: Display: Validating Blueprint /Game/FirstPersonBP/Blueprints/BP_Button.BP_Button
+[2023.01.18-23.23.13:069][331]LogSlate: Window 'BP_Button' being destroyed
+[2023.01.18-23.23.36:409][295]LogContentBrowser: Deferred new asset file creation: FirstPersonProjectileMaterial1
+[2023.01.18-23.23.36:440][295]LogContentBrowser: Creating deferred item: FirstPersonProjectileMaterial1
+[2023.01.18-23.23.42:466][624]LogContentBrowser: Attempting asset rename: FirstPersonProjectileMaterial1 -> MyMaterialRed
+[2023.01.18-23.23.42:469][624]LogContentBrowser: End creating deferred item FirstPersonProjectileMaterial1
+[2023.01.18-23.23.44:437][715]LogAssetEditorSubsystem: Opening Asset editor for MaterialInstanceConstant /Game/FirstPerson/Meshes/MyMaterialRed.MyMaterialRed
+[2023.01.18-23.23.44:867][715]LogRenderer: Reallocating scene render targets to support 1068x704 Format 10 NumSamples 1 (Frame:1).
+[2023.01.18-23.23.56:556][397]LogSlate: Window 'Color Picker' being destroyed
+[2023.01.18-23.24.04:617][865]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPerson/Meshes/MyMaterialRed" FILE="../../../../../../Users/dmitry/Documents/Unreal Projects/turtles/Content/FirstPerson/Meshes/MyMaterialRed.uasset" SILENT=true
+[2023.01.18-23.24.04:644][865]LogUObjectHash: Compacting FUObjectHashTables data took   2.57ms
+[2023.01.18-23.24.04:659][865]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2023.01.18-23.24.05:225][865]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2
+[2023.01.18-23.24.05:225][865]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1
+[2023.01.18-23.24.05:232][865]TextureStreamingBuild: Display: Compiling optional shaders took 0.585 seconds.
+[2023.01.18-23.24.05:254][865]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2023.01.18-23.24.05:262][865]LogSavePackage: Moving '../../../../../../Users/dmitry/Documents/Unreal Projects/turtles/Saved/MyMaterialRed3F983A4A44EA1D89ED27CDBCF29649D7.tmp' to '../../../../../../Users/dmitry/Documents/Unreal Projects/turtles/Content/FirstPerson/Meshes/MyMaterialRed.uasset'
+[2023.01.18-23.24.05:301][865]AssetCheck: New page: Asset Save: MyMaterialRed
+[2023.01.18-23.24.05:301][865]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/FirstPerson/Meshes/MyMaterialRed.MyMaterialRed
+[2023.01.18-23.24.33:993][260]LogSavePackage: Moving '../../../../../../Users/dmitry/Documents/Unreal Projects/turtles/Saved/BP_Button41A2CFDE4A42F19A647B139272F95F45.tmp' to '../../../../../../Users/dmitry/Documents/Unreal Projects/turtles/Content/FirstPersonBP/Blueprints/BP_Button.uasset'
+[2023.01.18-23.24.34:023][260]AssetCheck: New page: Asset Save: BP_Button
+[2023.01.18-23.24.34:023][260]LogContentValidation: Display: Validating Blueprint /Game/FirstPersonBP/Blueprints/BP_Button.BP_Button
+[2023.01.18-23.24.43:047][709]LogSlate: Took 0.007793 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2023.01.18-23.25.30:470][410]BlueprintLog: New page: Compile BP_Button
+[2023.01.18-23.25.30:558][410]LogUObjectHash: Compacting FUObjectHashTables data took   4.79ms
+[2023.01.18-23.25.31:033][428]LogSavePackage: Moving '../../../../../../Users/dmitry/Documents/Unreal Projects/turtles/Saved/BP_Button6945030C4BBA8DA0E5E971BD4BCDABF8.tmp' to '../../../../../../Users/dmitry/Documents/Unreal Projects/turtles/Content/FirstPersonBP/Blueprints/BP_Button.uasset'
+[2023.01.18-23.25.31:052][428]AssetCheck: New page: Asset Save: BP_Button
+[2023.01.18-23.25.31:052][428]LogContentValidation: Display: Validating Blueprint /Game/FirstPersonBP/Blueprints/BP_Button.BP_Button
+[2023.01.18-23.25.43:570][972]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2023.01.18-23.25.43:570][972]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.01.18-23.26.07:194][291]BlueprintLog: New page: Compile BP_Button
+[2023.01.18-23.26.07:277][291]LogUObjectHash: Compacting FUObjectHashTables data took   3.56ms
+[2023.01.18-23.26.08:054][324]LogSavePackage: Moving '../../../../../../Users/dmitry/Documents/Unreal Projects/turtles/Saved/BP_Button3966570B4ADA0578D05DEB84071D0F18.tmp' to '../../../../../../Users/dmitry/Documents/Unreal Projects/turtles/Content/FirstPersonBP/Blueprints/BP_Button.uasset'
+[2023.01.18-23.26.08:068][324]AssetCheck: New page: Asset Save: BP_Button
+[2023.01.18-23.26.08:068][324]LogContentValidation: Display: Validating Blueprint /Game/FirstPersonBP/Blueprints/BP_Button.BP_Button
+[2023.01.18-23.26.19:881][917]LogEditorTransaction: Undo Modify Component(s)
+[2023.01.18-23.26.39:782][  8]BlueprintLog: New page: Compile BP_Button
+[2023.01.18-23.26.39:854][  8]LogUObjectHash: Compacting FUObjectHashTables data took   4.19ms
+[2023.01.18-23.26.40:391][ 33]LogSavePackage: Moving '../../../../../../Users/dmitry/Documents/Unreal Projects/turtles/Saved/BP_ButtonF2A7E2BD438006509D2DAA99E216B07B.tmp' to '../../../../../../Users/dmitry/Documents/Unreal Projects/turtles/Content/FirstPersonBP/Blueprints/BP_Button.uasset'
+[2023.01.18-23.26.40:406][ 33]AssetCheck: New page: Asset Save: BP_Button
+[2023.01.18-23.26.40:406][ 33]LogContentValidation: Display: Validating Blueprint /Game/FirstPersonBP/Blueprints/BP_Button.BP_Button
+[2023.01.18-23.27.34:046][ 53]LogEditorViewport: Clicking on Actor (LMB): BP_Button_C (BP_Button2)
+[2023.01.18-23.27.36:572][203]LogEditorViewport: Clicking on Actor (LMB): BP_Button_C (BP_Button1)
+[2023.01.18-23.27.40:984][463]LogUObjectHash: Compacting FUObjectHashTables data took   2.99ms
+[2023.01.18-23.27.41:046][463]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2023.01.18-23.27.41:066][463]LogSavePackage: Moving '../../../../../../Users/dmitry/Documents/Unreal Projects/turtles/Saved/FirstPersonExampleMapD1992CC24A9B788E40557CA583E30DE8.tmp' to '../../../../../../Users/dmitry/Documents/Unreal Projects/turtles/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2023.01.18-23.27.41:071][463]LogFileHelpers: Saving map 'FirstPersonExampleMap' took 0.054
+[2023.01.18-23.27.41:086][463]AssetCheck: New page: Asset Save: FirstPersonExampleMap
+[2023.01.18-23.27.41:086][463]LogContentValidation: Display: Validating World /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap
+[2023.01.18-23.27.41:863][508]LogTemp: Repeating last play command: Selected Viewport
+[2023.01.18-23.27.41:871][508]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.01.18-23.27.41:871][508]PIE: New page: PIE session: FirstPersonExampleMap (19 янв. 2023 г., 11:27:41)
+[2023.01.18-23.27.41:898][508]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2023.01.18-23.27.41:912][508]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012798s)
+[2023.01.18-23.27.41:913][508]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2023.01.18-23.27.41:913][508]LogPlayLevel: PIE: World Init took: (0.001613s)
+[2023.01.18-23.27.41:913][508]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.014659s)
+[2023.01.18-23.27.41:949][508]LogUObjectHash: Compacting FUObjectHashTables data took   3.01ms
+[2023.01.18-23.27.41:950][508]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2023.01.18-23.27.41:950][508]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.01.18-23.27.41:950][508]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.01.18-23.27.41:950][508]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.01.18-23.27.41:950][508]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.01.18-23.27.41:950][508]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.01.18-23.27.41:950][508]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.01.18-23.27.41:950][508]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.01.18-23.27.41:950][508]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.01.18-23.27.41:951][508]LogAudio: Display: Using built-in audio occlusion.
+[2023.01.18-23.27.41:951][508]LogAudioMixer: Display: Initializing audio mixer.
+[2023.01.18-23.27.41:953][508]LogAudioMixer: Display: 0: FrontLeft
+[2023.01.18-23.27.41:953][508]LogAudioMixer: Display: 1: FrontRight
+[2023.01.18-23.27.41:966][508]LogAudioMixer: Display: Using Audio Device Наушники (EDIFIER W800BT Plus Stereo)
+[2023.01.18-23.27.41:966][508]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.01.18-23.27.41:966][508]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.01.18-23.27.41:966][508]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.01.18-23.27.41:967][508]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.01.18-23.27.41:967][508]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.01.18-23.27.41:967][508]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.01.18-23.27.41:984][508]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.01.18-23.27.41:984][508]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.01.18-23.27.41:985][508]LogInit: FAudioDevice initialized.
+[2023.01.18-23.27.41:985][508]LogAudio: Display: Audio Device (ID: 4) registered with world 'FirstPersonExampleMap'.
+[2023.01.18-23.27.41:998][508]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2023.01.18-23.27.42:000][508]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 60) at 2023.01.19-05.27.42
+[2023.01.18-23.27.42:000][508]LogWorld: Bringing up level for play took: 0.001925
+[2023.01.18-23.27.42:000][508]LogOnline: OSS: Creating online subsystem instance for: :Context_10
+[2023.01.18-23.27.42:005][508]PIE: Server logged in
+[2023.01.18-23.27.42:005][508]PIE: Play in editor total start time 0,138 seconds.
+[2023.01.18-23.27.55:000][283]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.01.18-23.27.55:000][283]LogWorld: BeginTearingDown for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2023.01.18-23.27.55:001][283]LogWorld: UWorld::CleanupWorld for FirstPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2023.01.18-23.27.55:001][283]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.01.18-23.27.55:010][283]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.01.18-23.27.55:021][283]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.01.18-23.27.55:047][283]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.01.18-23.27.55:048][283]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.01.18-23.27.55:049][283]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.01.18-23.27.55:070][283]LogUObjectHash: Compacting FUObjectHashTables data took   2.24ms
+[2023.01.18-23.27.55:102][284]LogPlayLevel: Display: Destroying online subsystem :Context_10
+[2023.01.18-23.30.07:338][ 24]BlueprintLog: New page: Compile BP_Button
+[2023.01.18-23.30.07:419][ 24]LogUObjectHash: Compacting FUObjectHashTables data took   5.30ms
+[2023.01.18-23.30.08:000][ 48]LogSavePackage: Moving '../../../../../../Users/dmitry/Documents/Unreal Projects/turtles/Saved/BP_Button4B213229466C815920B5608D4D179509.tmp' to '../../../../../../Users/dmitry/Documents/Unreal Projects/turtles/Content/FirstPersonBP/Blueprints/BP_Button.uasset'
+[2023.01.18-23.30.08:054][ 48]AssetCheck: New page: Asset Save: BP_Button
+[2023.01.18-23.30.08:054][ 48]LogContentValidation: Display: Validating Blueprint /Game/FirstPersonBP/Blueprints/BP_Button.BP_Button
+[2023.01.18-23.30.16:933][575]LogEditorViewport: Clicking on Actor (LMB): BP_Button_C (BP_Button2)
+[2023.01.18-23.30.20:586][790]LogEditorViewport: Clicking on Actor (LMB): BP_Button_C (BP_Button3)
+[2023.01.18-23.30.40:217][768]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter
+[2023.01.18-23.30.41:111][768]LogSlate: Took 0.001654 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2023.01.18-23.36.04:513][194]LogSelectionDetails: Warning: NavigateToFunctionSource:  Unable to find symbols for 'UKismetMathLibrary::Add_VectorVector' [Элемент не найден.]
+[2023.01.18-23.36.22:732][280]BlueprintLog: New page: Compile FirstPersonCharacter
+[2023.01.18-23.36.22:862][280]LogUObjectHash: Compacting FUObjectHashTables data took   5.76ms
+[2023.01.18-23.36.23:724][317]LogSavePackage: Moving '../../../../../../Users/dmitry/Documents/Unreal Projects/turtles/Saved/FirstPersonCharacter7317F06648544ED2448E9BA4BF5A4BE2.tmp' to '../../../../../../Users/dmitry/Documents/Unreal Projects/turtles/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset'
+[2023.01.18-23.36.23:773][317]AssetCheck: New page: Asset Save: FirstPersonCharacter
+[2023.01.18-23.36.23:773][317]LogContentValidation: Display: Validating Blueprint /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter
+[2023.01.18-23.37.15:202][449]BlueprintLog: New page: Compile FirstPersonCharacter
+[2023.01.18-23.37.15:291][449]LogUObjectHash: Compacting FUObjectHashTables data took   3.70ms
+[2023.01.18-23.37.15:904][471]LogSavePackage: Moving '../../../../../../Users/dmitry/Documents/Unreal Projects/turtles/Saved/FirstPersonCharacterD353200F4A0D0E027DD180B766B24F68.tmp' to '../../../../../../Users/dmitry/Documents/Unreal Projects/turtles/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset'
+[2023.01.18-23.37.15:925][471]AssetCheck: New page: Asset Save: FirstPersonCharacter
+[2023.01.18-23.37.15:925][471]LogContentValidation: Display: Validating Blueprint /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter
+[2023.01.18-23.37.18:064][594]LogTemp: Repeating last play command: Selected Viewport
+[2023.01.18-23.37.18:081][594]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.01.18-23.37.18:090][594]PIE: New page: PIE session: FirstPersonExampleMap (19 янв. 2023 г., 11:37:18)
+[2023.01.18-23.37.18:134][594]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2023.01.18-23.37.18:202][594]LogPlayLevel: PIE: StaticDuplicateObject took: (0.066146s)
+[2023.01.18-23.37.18:213][594]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2023.01.18-23.37.18:221][594]LogPlayLevel: PIE: World Init took: (0.019244s)
+[2023.01.18-23.37.18:222][594]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.088386s)
+[2023.01.18-23.37.18:257][594]LogUObjectHash: Compacting FUObjectHashTables data took   2.58ms
+[2023.01.18-23.37.18:263][594]LogAudio: Display: Creating Audio Device:                 Id: 5, Scope: Unique, Realtime: True
+[2023.01.18-23.37.18:266][594]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.01.18-23.37.18:266][594]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.01.18-23.37.18:266][594]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.01.18-23.37.18:266][594]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.01.18-23.37.18:266][594]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.01.18-23.37.18:266][594]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.01.18-23.37.18:266][594]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.01.18-23.37.18:266][594]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.01.18-23.37.18:268][594]LogAudio: Display: Using built-in audio occlusion.
+[2023.01.18-23.37.18:268][594]LogAudioMixer: Display: Initializing audio mixer.
+[2023.01.18-23.37.18:273][594]LogAudioMixer: Display: 0: FrontLeft
+[2023.01.18-23.37.18:274][594]LogAudioMixer: Display: 1: FrontRight
+[2023.01.18-23.37.18:288][594]LogAudioMixer: Display: Using Audio Device Наушники (EDIFIER W800BT Plus Stereo)
+[2023.01.18-23.37.18:290][594]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.01.18-23.37.18:290][594]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.01.18-23.37.18:291][594]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.01.18-23.37.18:293][594]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.01.18-23.37.18:293][594]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.01.18-23.37.18:293][594]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.01.18-23.37.18:312][594]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.01.18-23.37.18:312][594]LogInit: FAudioDevice initialized.
+[2023.01.18-23.37.18:312][594]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.01.18-23.37.18:312][594]LogAudio: Display: Audio Device (ID: 5) registered with world 'FirstPersonExampleMap'.
+[2023.01.18-23.37.18:373][594]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2023.01.18-23.37.18:393][594]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 60) at 2023.01.19-05.37.18
+[2023.01.18-23.37.18:397][594]LogWorld: Bringing up level for play took: 0.014056
+[2023.01.18-23.37.18:404][594]LogOnline: OSS: Creating online subsystem instance for: :Context_12
+[2023.01.18-23.37.18:447][594]PIE: Server logged in
+[2023.01.18-23.37.18:448][594]PIE: Play in editor total start time 0,373 seconds.
+[2023.01.18-23.37.32:223][404]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.01.18-23.37.32:223][404]LogWorld: BeginTearingDown for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2023.01.18-23.37.32:229][404]LogWorld: UWorld::CleanupWorld for FirstPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2023.01.18-23.37.32:232][404]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.01.18-23.37.32:255][404]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.01.18-23.37.32:265][404]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.01.18-23.37.32:296][404]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.01.18-23.37.32:300][404]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.01.18-23.37.32:301][404]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.01.18-23.37.32:344][404]LogUObjectHash: Compacting FUObjectHashTables data took   2.80ms
+[2023.01.18-23.37.32:382][405]LogPlayLevel: Display: Destroying online subsystem :Context_12
+[2023.01.18-23.38.29:696][493]LogUObjectHash: Compacting FUObjectHashTables data took   2.85ms
+[2023.01.18-23.38.29:734][493]LogSavePackage: Moving '../../../../../../Users/dmitry/Documents/Unreal Projects/turtles/Saved/FirstPersonExampleMap_Auto13F177AD64B655C8931768D9215D137CF.tmp' to '../../../../../../Users/dmitry/Documents/Unreal Projects/turtles/Saved/Autosaves/Game/FirstPersonBP/Maps/FirstPersonExampleMap_Auto1.umap'
+[2023.01.18-23.38.29:736][493]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPersonBP/Maps/FirstPersonExampleMap' took 0.077
+[2023.01.18-23.38.29:737][493]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.077
+[2023.01.18-23.38.29:740][493]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/FirstPersonBP/Blueprints/FirstPersonCharacter] ([1] browsable assets)...
+[2023.01.18-23.38.29:779][493]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter]
+[2023.01.18-23.38.29:779][493]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPersonBP/Blueprints/FirstPersonCharacter]
+[2023.01.18-23.38.29:830][493]LogSavePackage: Moving '../../../../../../Users/dmitry/Documents/Unreal Projects/turtles/Saved/FirstPersonCharacter_Auto17862F871446B9D7676C4998C10185416.tmp' to '../../../../../../Users/dmitry/Documents/Unreal Projects/turtles/Saved/Autosaves/Game/FirstPersonBP/Blueprints/FirstPersonCharacter_Auto1.uasset'
+[2023.01.18-23.38.29:830][493]LogFileHelpers: Auto-saving content packages took 0.093
+[2023.01.18-23.41.08:295][424]BlueprintLog: New page: Compile FirstPersonCharacter
+[2023.01.18-23.41.08:379][424]LogUObjectHash: Compacting FUObjectHashTables data took   3.42ms
+[2023.01.18-23.41.09:320][462]LogSavePackage: Moving '../../../../../../Users/dmitry/Documents/Unreal Projects/turtles/Saved/FirstPersonCharacter77EC46764159CAC292AC2F8314BECE5F.tmp' to '../../../../../../Users/dmitry/Documents/Unreal Projects/turtles/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset'
+[2023.01.18-23.41.09:342][462]AssetCheck: New page: Asset Save: FirstPersonCharacter
+[2023.01.18-23.41.09:342][462]LogContentValidation: Display: Validating Blueprint /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter
+[2023.01.18-23.41.17:703][899]LogContentBrowser: Deferred new asset file creation: NewInterface
+[2023.01.18-23.41.17:739][899]LogContentBrowser: Creating deferred item: NewInterface
+[2023.01.18-23.41.23:942][270]LogContentBrowser: Attempting asset rename: NewInterface -> BP_MyInterface
+[2023.01.18-23.41.23:976][270]LogContentBrowser: End creating deferred item NewInterface
+[2023.01.18-23.41.26:098][379]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/FirstPersonBP/Blueprints/BP_MyInterface.BP_MyInterface
+[2023.01.18-23.42.33:272][115]BlueprintLog: New page: Compile BP_MyInterface
+[2023.01.18-23.42.33:315][115]LogUObjectHash: Compacting FUObjectHashTables data took   5.15ms
+[2023.01.18-23.42.33:796][142]LogSavePackage: Moving '../../../../../../Users/dmitry/Documents/Unreal Projects/turtles/Saved/BP_MyInterface7093B9534AF95871C55EF9B82C4F342E.tmp' to '../../../../../../Users/dmitry/Documents/Unreal Projects/turtles/Content/FirstPersonBP/Blueprints/BP_MyInterface.uasset'
+[2023.01.18-23.42.33:828][142]AssetCheck: New page: Asset Save: BP_MyInterface
+[2023.01.18-23.42.33:828][142]LogContentValidation: Display: Validating Blueprint /Game/FirstPersonBP/Blueprints/BP_MyInterface.BP_MyInterface
+[2023.01.18-23.43.06:364][364]BlueprintLog: New page: Compile FirstPersonCharacter
+[2023.01.18-23.43.06:455][364]LogUObjectHash: Compacting FUObjectHashTables data took   3.64ms
+[2023.01.18-23.43.07:132][387]LogSavePackage: Moving '../../../../../../Users/dmitry/Documents/Unreal Projects/turtles/Saved/FirstPersonCharacterEAEA41354D94AACE39773FA259B4AD14.tmp' to '../../../../../../Users/dmitry/Documents/Unreal Projects/turtles/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset'
+[2023.01.18-23.43.07:151][387]AssetCheck: New page: Asset Save: FirstPersonCharacter
+[2023.01.18-23.43.07:151][387]LogContentValidation: Display: Validating Blueprint /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter
+[2023.01.18-23.43.58:318][352]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (BigWall4)
+[2023.01.18-23.43.59:064][394]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2023.01.18-23.44.00:902][500]LogUObjectHash: Compacting FUObjectHashTables data took   3.34ms
+[2023.01.18-23.44.00:966][500]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2023.01.18-23.44.00:987][500]LogSavePackage: Moving '../../../../../../Users/dmitry/Documents/Unreal Projects/turtles/Saved/FirstPersonExampleMap995C84A44B955DB507C8FC8095BFB9BE.tmp' to '../../../../../../Users/dmitry/Documents/Unreal Projects/turtles/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2023.01.18-23.44.01:003][500]LogFileHelpers: Saving map 'FirstPersonExampleMap' took 0.070
+[2023.01.18-23.44.01:037][500]LogSavePackage: Moving '../../../../../../Users/dmitry/Documents/Unreal Projects/turtles/Saved/BP_Button1B581FCE4E37B8FE64F137A740160185.tmp' to '../../../../../../Users/dmitry/Documents/Unreal Projects/turtles/Content/FirstPersonBP/Blueprints/BP_Button.uasset'
+[2023.01.18-23.44.01:058][500]AssetCheck: New page: Asset Save: multiple assets
+[2023.01.18-23.44.01:058][500]LogContentValidation: Display: Validating World /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap
+[2023.01.18-23.44.01:058][500]LogContentValidation: Display: Validating Blueprint /Game/FirstPersonBP/Blueprints/BP_Button.BP_Button
+[2023.01.18-23.44.03:863][668]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2023.01.18-23.44.04:536][708]LogTemp: Repeating last play command: Selected Viewport
+[2023.01.18-23.44.04:540][708]BlueprintLog: New page: Pre-Play auto-recompile
+[2023.01.18-23.44.04:544][708]LogPlayLevel: [PlayLevel] Compiling BP_Button before play...
+[2023.01.18-23.44.04:670][708]LogUObjectHash: Compacting FUObjectHashTables data took   3.63ms
+[2023.01.18-23.44.04:674][708]LogPlayLevel: PlayLevel: Blueprint regeneration took 134 ms (1 blueprints)
+[2023.01.18-23.44.04:674][708]PIE: New page: PIE session: FirstPersonExampleMap (19 янв. 2023 г., 11:44:04)
+[2023.01.18-23.44.04:674][708]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2023.01.18-23.44.04:689][708]LogPlayLevel: PIE: StaticDuplicateObject took: (0.014967s)
+[2023.01.18-23.44.04:691][708]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2023.01.18-23.44.04:692][708]LogPlayLevel: PIE: World Init took: (0.002103s)
+[2023.01.18-23.44.04:692][708]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.017295s)
+[2023.01.18-23.44.04:734][708]LogUObjectHash: Compacting FUObjectHashTables data took   2.62ms
+[2023.01.18-23.44.04:735][708]LogAudio: Display: Creating Audio Device:                 Id: 6, Scope: Unique, Realtime: True
+[2023.01.18-23.44.04:735][708]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.01.18-23.44.04:735][708]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.01.18-23.44.04:735][708]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.01.18-23.44.04:735][708]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.01.18-23.44.04:735][708]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.01.18-23.44.04:735][708]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.01.18-23.44.04:735][708]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.01.18-23.44.04:735][708]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.01.18-23.44.04:736][708]LogAudio: Display: Using built-in audio occlusion.
+[2023.01.18-23.44.04:736][708]LogAudioMixer: Display: Initializing audio mixer.
+[2023.01.18-23.44.04:738][708]LogAudioMixer: Display: 0: FrontLeft
+[2023.01.18-23.44.04:739][708]LogAudioMixer: Display: 1: FrontRight
+[2023.01.18-23.44.04:750][708]LogAudioMixer: Display: Using Audio Device Наушники (EDIFIER W800BT Plus Stereo)
+[2023.01.18-23.44.04:751][708]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.01.18-23.44.04:751][708]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.01.18-23.44.04:751][708]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.01.18-23.44.04:751][708]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.01.18-23.44.04:751][708]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.01.18-23.44.04:751][708]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.01.18-23.44.04:771][708]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.01.18-23.44.04:771][708]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.01.18-23.44.04:771][708]LogInit: FAudioDevice initialized.
+[2023.01.18-23.44.04:771][708]LogAudio: Display: Audio Device (ID: 6) registered with world 'FirstPersonExampleMap'.
+[2023.01.18-23.44.04:783][708]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2023.01.18-23.44.04:785][708]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 60) at 2023.01.19-05.44.04
+[2023.01.18-23.44.04:786][708]LogWorld: Bringing up level for play took: 0.001974
+[2023.01.18-23.44.04:786][708]LogOnline: OSS: Creating online subsystem instance for: :Context_14
+[2023.01.18-23.44.04:790][708]PIE: Server logged in
+[2023.01.18-23.44.04:790][708]PIE: Play in editor total start time 0,251 seconds.
+[2023.01.18-23.44.24:589][837]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.01.18-23.44.24:589][837]LogWorld: BeginTearingDown for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2023.01.18-23.44.24:589][837]LogWorld: UWorld::CleanupWorld for FirstPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2023.01.18-23.44.24:589][837]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.01.18-23.44.24:605][837]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.01.18-23.44.24:617][837]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.01.18-23.44.24:651][837]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.01.18-23.44.24:652][837]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.01.18-23.44.24:653][837]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.01.18-23.44.24:675][837]LogUObjectHash: Compacting FUObjectHashTables data took   2.33ms
+[2023.01.18-23.44.24:712][838]LogPlayLevel: Display: Destroying online subsystem :Context_14
+[2023.01.18-23.44.51:223][323]LogUObjectHash: Compacting FUObjectHashTables data took   2.96ms
+[2023.01.18-23.44.51:249][323]LogSavePackage: Moving '../../../../../../Users/dmitry/Documents/Unreal Projects/turtles/Saved/FirstPersonExampleMapF82CFFEB4432B7AB812EC78173B679E8.tmp' to '../../../../../../Users/dmitry/Documents/Unreal Projects/turtles/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2023.01.18-23.44.52:659][323]LogSavePackage: Moving '../../../../../../Users/dmitry/Documents/Unreal Projects/turtles/Saved/FirstPersonExampleMap_BuiltData11AA129B49AE47352A8401AC66B24725.tmp' to '../../../../../../Users/dmitry/Documents/Unreal Projects/turtles/Content/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.uasset'
+[2023.01.18-23.44.52:692][323]AssetCheck: New page: Asset Save: multiple assets
+[2023.01.18-23.44.52:692][323]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.FirstPersonExampleMap_BuiltData
+[2023.01.18-23.44.52:692][323]LogContentValidation: Display: Validating World /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap
+[2023.01.18-23.46.56:407][979]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2023.01.18-23.47.08:910][720]BlueprintLog: New page: Compile BP_Button
+[2023.01.18-23.47.08:983][720]LogUObjectHash: Compacting FUObjectHashTables data took   4.08ms
+[2023.01.18-23.47.09:613][733]LogSavePackage: Moving '../../../../../../Users/dmitry/Documents/Unreal Projects/turtles/Saved/BP_Button6AB9055C438CD84C81C8F3866CC9565D.tmp' to '../../../../../../Users/dmitry/Documents/Unreal Projects/turtles/Content/FirstPersonBP/Blueprints/BP_Button.uasset'
+[2023.01.18-23.47.09:634][733]AssetCheck: New page: Asset Save: BP_Button
+[2023.01.18-23.47.09:634][733]LogContentValidation: Display: Validating Blueprint /Game/FirstPersonBP/Blueprints/BP_Button.BP_Button
+[2023.01.18-23.47.59:151][363]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2023.01.18-23.47.59:151][363]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2023.01.18-23.48.05:343][730]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2023.01.18-23.48.05:343][730]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2023.01.18-23.48.24:005][690]BlueprintLog: New page: Compile BP_Button
+[2023.01.18-23.48.24:081][690]LogUObjectHash: Compacting FUObjectHashTables data took   5.40ms
+[2023.01.18-23.48.24:684][705]LogSavePackage: Moving '../../../../../../Users/dmitry/Documents/Unreal Projects/turtles/Saved/BP_Button2B22F01C4DA124B7BAB91D80162A222A.tmp' to '../../../../../../Users/dmitry/Documents/Unreal Projects/turtles/Content/FirstPersonBP/Blueprints/BP_Button.uasset'
+[2023.01.18-23.48.24:703][705]AssetCheck: New page: Asset Save: BP_Button
+[2023.01.18-23.48.24:703][705]LogContentValidation: Display: Validating Blueprint /Game/FirstPersonBP/Blueprints/BP_Button.BP_Button
+[2023.01.18-23.48.28:467][931]LogTemp: Repeating last play command: Selected Viewport
+[2023.01.18-23.48.28:471][931]BlueprintLog: New page: Pre-Play auto-recompile
+[2023.01.18-23.48.28:472][931]LogPlayLevel: [PlayLevel] Compiling FirstPersonCharacter before play...
+[2023.01.18-23.48.28:576][931]LogUObjectHash: Compacting FUObjectHashTables data took   3.15ms
+[2023.01.18-23.48.28:578][931]LogPlayLevel: PlayLevel: Blueprint regeneration took 106 ms (1 blueprints)
+[2023.01.18-23.48.28:578][931]PIE: New page: PIE session: FirstPersonExampleMap (19 янв. 2023 г., 11:48:28)
+[2023.01.18-23.48.28:578][931]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2023.01.18-23.48.28:593][931]LogPlayLevel: PIE: StaticDuplicateObject took: (0.014661s)
+[2023.01.18-23.48.28:594][931]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2023.01.18-23.48.28:595][931]LogPlayLevel: PIE: World Init took: (0.001583s)
+[2023.01.18-23.48.28:595][931]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.016465s)
+[2023.01.18-23.48.28:636][931]LogUObjectHash: Compacting FUObjectHashTables data took   2.49ms
+[2023.01.18-23.48.28:637][931]LogAudio: Display: Creating Audio Device:                 Id: 7, Scope: Unique, Realtime: True
+[2023.01.18-23.48.28:637][931]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.01.18-23.48.28:637][931]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.01.18-23.48.28:637][931]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.01.18-23.48.28:637][931]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.01.18-23.48.28:637][931]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.01.18-23.48.28:637][931]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.01.18-23.48.28:637][931]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.01.18-23.48.28:637][931]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.01.18-23.48.28:637][931]LogAudio: Display: Using built-in audio occlusion.
+[2023.01.18-23.48.28:637][931]LogAudioMixer: Display: Initializing audio mixer.
+[2023.01.18-23.48.28:639][931]LogAudioMixer: Display: 0: FrontLeft
+[2023.01.18-23.48.28:640][931]LogAudioMixer: Display: 1: FrontRight
+[2023.01.18-23.48.28:651][931]LogAudioMixer: Display: Using Audio Device Наушники (EDIFIER W800BT Plus Stereo)
+[2023.01.18-23.48.28:652][931]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.01.18-23.48.28:652][931]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.01.18-23.48.28:652][931]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.01.18-23.48.28:653][931]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.01.18-23.48.28:653][931]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.01.18-23.48.28:653][931]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.01.18-23.48.28:672][931]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.01.18-23.48.28:672][931]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.01.18-23.48.28:672][931]LogInit: FAudioDevice initialized.
+[2023.01.18-23.48.28:672][931]LogAudio: Display: Audio Device (ID: 7) registered with world 'FirstPersonExampleMap'.
+[2023.01.18-23.48.28:726][931]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.01.18-23.48.28:727][931]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2023.01.18-23.48.28:732][931]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 60) at 2023.01.19-05.48.28
+[2023.01.18-23.48.28:733][931]LogWorld: Bringing up level for play took: 0.004721
+[2023.01.18-23.48.28:733][931]LogOnline: OSS: Creating online subsystem instance for: :Context_15
+[2023.01.18-23.48.28:743][931]PIE: Server logged in
+[2023.01.18-23.48.28:744][931]PIE: Play in editor total start time 0,274 seconds.
+[2023.01.18-23.48.32:352][127]LogBlueprintUserMessages: [BP_Button2] Button2
+[2023.01.18-23.48.35:033][288]LogBlueprintUserMessages: [BP_Button3] Button3
+[2023.01.18-23.48.37:185][417]LogBlueprintUserMessages: [BP_Button1] Button1
+[2023.01.18-23.48.37:433][432]LogBlueprintUserMessages: [BP_Button1] Button1
+[2023.01.18-23.48.37:616][443]LogBlueprintUserMessages: [BP_Button1] Button1
+[2023.01.18-23.48.37:783][453]LogBlueprintUserMessages: [BP_Button1] Button1
+[2023.01.18-23.48.38:639][503]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.01.18-23.48.38:639][503]LogWorld: BeginTearingDown for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2023.01.18-23.48.38:640][503]LogSlate: Window 'turtles Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2023.01.18-23.48.38:647][503]LogWorld: UWorld::CleanupWorld for FirstPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2023.01.18-23.48.38:649][503]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.01.18-23.48.38:667][503]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.01.18-23.48.38:681][503]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.01.18-23.48.38:718][503]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.01.18-23.48.38:718][503]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.01.18-23.48.38:720][503]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.01.18-23.48.38:754][503]LogUObjectHash: Compacting FUObjectHashTables data took   3.02ms
+[2023.01.18-23.48.38:784][504]LogPlayLevel: Display: Destroying online subsystem :Context_15
+[2023.01.18-23.48.45:731][909]BlueprintLog: New page: Compile BP_Button
+[2023.01.18-23.48.45:795][909]LogUObjectHash: Compacting FUObjectHashTables data took   3.54ms
+[2023.01.18-23.48.46:471][929]LogSavePackage: Moving '../../../../../../Users/dmitry/Documents/Unreal Projects/turtles/Saved/BP_ButtonF993C3074F1B299322D0899FB689D32B.tmp' to '../../../../../../Users/dmitry/Documents/Unreal Projects/turtles/Content/FirstPersonBP/Blueprints/BP_Button.uasset'
+[2023.01.18-23.48.46:488][929]AssetCheck: New page: Asset Save: BP_Button
+[2023.01.18-23.48.46:488][929]LogContentValidation: Display: Validating Blueprint /Game/FirstPersonBP/Blueprints/BP_Button.BP_Button
+[2023.01.18-23.49.03:914][ 67]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2023.01.18-23.49.03:914][ 67]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
